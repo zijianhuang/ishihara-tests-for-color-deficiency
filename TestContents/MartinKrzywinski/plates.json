@@ -1,0 +1,321 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "38 Plates",
+	"description": "38 Plates by Martin Krzywinski",
+	"dir": "../../svg_sources/svg",
+	"plates": [
+		{
+			"platePath": "1.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "12",
+			"description": "Everyone should see number 12.",
+			"buttonTexts": ["21", "17", "12", "72", "89"]
+		},
+		{
+			"platePath": "2.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "8",
+			"buttonTexts": ["9", "8", "6", "3", "4"],
+			"deficiency": ["3"],
+			"description": "Red-green deficiency: 3"
+		},
+		{
+			"platePath": "3.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "6",
+			"buttonTexts": ["8", "9", "6", "3", "5"],
+			"deficiency": ["5"],
+			"description": "Red-green deficiency: 5"
+		},
+		{
+			"platePath": "4.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "29",
+			"buttonTexts": ["19", "29", "28", "70", "78"],
+			"deficiency": ["70"],
+			"description": "Red-green deficiency: 70"
+		},
+		{
+			"platePath": "5.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "51",
+			"buttonTexts": ["35", "57", "51", "62", "77"],
+			"deficiency": ["35"],
+			"description": "Red-green deficiency: 35"
+		},
+		{
+			"platePath": "6.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "5",
+			"buttonTexts": ["6", "2", "5", "8", "9"],
+			"deficiency": ["2"],
+			"description": "Red-green deficiency: 2"
+		},
+		{
+			"platePath": "7.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "3",
+			"buttonTexts": ["3", "8", "9", "5", "2"],
+			"deficiency": ["5"],
+			"description": "Red-green deficiency: 5"
+		},
+		{
+			"platePath": "8.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "15",
+			"buttonTexts": ["11", "17", "15", "75", "23"],
+			"deficiency": ["17"],
+			"description": "Red-green deficiency: 17"
+		},
+		{
+			"platePath": "9.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "74",
+			"buttonTexts": ["23", "21", "78", "74", "14"],
+			"deficiency": ["21"],
+			"description": "Red-green deficiency: 21"
+		},
+		{
+			"platePath": "10.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "2",
+			"buttonTexts": ["∅", "9", "2", "5", "8"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "11.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "6",
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "12.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "97",
+			"buttonTexts": ["91", "97", "87", "∅", "23"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "13.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "45",
+			"buttonTexts": ["∅", "75", "45", "65", "43"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "14.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "5",
+			"buttonTexts": ["5", "6", "∅", "8", "4"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "15.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "7",
+			"buttonTexts": ["7", "1", "∅", "9", "3"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong.."
+		},
+		{
+			"platePath": "16.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "16",
+			"buttonTexts": ["76", "∅", "16", "76", "78"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "17.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "73",
+			"buttonTexts": ["∅", "73", "44", "13", "78"],
+			"deficiency": ["∅"],
+			"description": "Red-green deficiency: most people don’t see anything or see something wrong."
+		},
+		{
+			"platePath": "18.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"buttonTexts": ["∅", "9", "5", "6", "7"],
+			"deficiency": ["5"],
+			"description": "Red-green deficiency: 5"
+		},
+		{
+			"platePath": "19.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"buttonTexts": ["2", "3", "∅", "8", "3"],
+			"deficiency": ["2"],
+			"description": "Red-green deficiency: 2"
+		},
+		{
+			"platePath": "20.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"buttonTexts": ["43", "45", "78", "∅", "23"],
+			"deficiency": ["45"],
+			"description": "Red-green deficiency: 45"
+		},
+		{
+			"platePath": "21.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"buttonTexts": ["∅", "13", "73", "43", "22"],
+			"deficiency": ["73"],
+			"description": "Red-green deficiency: 73"
+		},
+		{
+			"platePath": "22.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "26",
+			"buttonTexts": ["2", "9", "6", "26", "62"],
+			"deficiency": ["6", "2"],
+			"description": "Protanopia or protanomaly: 6; Deuteranopia or deuteranomaly: 2"
+		},
+		{
+			"platePath": "23.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "42",
+			"buttonTexts": ["41", "42", "2", "4", "3"],
+			"deficiency": ["2", "4"],
+			"description": "Protanopia or protanomaly: 2; Deuteranopia or deuteranomaly: 4"
+		},
+		{
+			"platePath": "24.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "35",
+			"buttonTexts": ["3", "53", "35", "5", "55"],
+			"deficiency": ["5", "3"],
+			"description": "Protanopia or protanomaly: 5; Deuteranopia or deuteranomaly: 3"
+		},
+		{
+			"platePath": "25.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "96",
+			"buttonTexts": ["96", "9", "6", "3", "63"],
+			"deficiency": ["6", "9"],
+			"description": "Protanopia or protanomaly: 6; Deuteranopia or deuteranomaly: 9"
+		},
+		{
+			"platePath": "26.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Purple and red spots",
+			"description": "Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
+		},
+		{
+			"platePath": "27.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Purple and red spots",
+			"description": "Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
+		},
+		{
+			"platePath": "28.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"description": "Red-green deficiency: a line"
+		},
+		{
+			"platePath": "29.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"description": "Red-green deficiency: a line"
+		},
+		{
+			"platePath": "30.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "blue-green line",
+			"description": "Red-green deficiency: ∅"
+		},
+		{
+			"platePath": "31.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "blue-green line",
+			"description": "Red-green deficiency: ∅"
+		},
+		{
+			"platePath": "32.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Orange line",
+			"description": "Red-green deficiency: ∅ or a false line"
+		},
+		{
+			"platePath": "33.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Orange line",
+			"description": "Red-green deficiency: ∅ or a false line"
+		},
+		{
+			"platePath": "34.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Blue-green and yellow-green line",
+			"description": "Red-green deficiency: only red-green and violet line"
+		},
+		{
+			"platePath": "35.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "blue-green and yellow-green line",
+			"description": "Red-green deficiency: only blue-green and violet line"
+		},
+		{
+			"platePath": "36.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "violet and orange line",
+			"description": "Red green deficiency: blue-green and violet line"
+		},
+		{
+			"platePath": "37.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "violet and orange line",
+			"description": "Red green deficiency: blue-green and violet line"
+		},
+		{
+			"platePath": "38.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "Good line",
+			"description": "Everyone should see the same line"
+		}
+	]
+}

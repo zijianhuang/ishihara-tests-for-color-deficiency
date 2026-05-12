@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "demoapp",
+        "jsondiffpatch",
+        "kolkov",
+        "luxon",
+        "NMCE",
+        "nmcestyles"
+    ],
+    "search.exclude": {
+        "**/documentation": true,
+        "**/appdist": true,
+        "**/dist": true
+    },
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+  "json.schemas": [
+    {
+      "url": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json"
+    },
+	{
+	  "url": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/AllColorBlindTestsSchema.json"
+	}
+  ]
+}
