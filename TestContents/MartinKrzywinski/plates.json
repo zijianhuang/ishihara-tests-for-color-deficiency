@@ -228,23 +228,29 @@
 		},
 		{
 			"platePath": "26.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Purple and red spots",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_26.svg",
+			"buttonTexts": ["∅", "draw_26_purple.svg", "draw_26.svg", "draw_26_red.svg", "draw_27.svg"],
+			"deficiency": ["draw_26_purple.svg", "draw_26_red.svg"],
 			"description": "Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
 		},
 		{
 			"platePath": "27.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Purple and red spots",
-			"description": "Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_27.svg",
+			"buttonTexts": ["∅", "draw_27_purple.svg", "draw_27.svg", "draw_27_red.svg", "draw_26.svg"],
+			"deficiency": ["draw_27_purple.svg", "draw_27_red.svg"],
+			"description": "Normal view: purple and red spots; Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
 		},
 		{
 			"platePath": "28.svg",
 			"nature": "Letter",
 			"input": "Buttons",
 			"answer": "∅",
+			"buttonTexts": ["∅", "Circle", "Line", "Curve line", "B"],
+			"deficiency": ["Line"],
 			"description": "Red-green deficiency: a line"
 		},
 		{
@@ -252,69 +258,88 @@
 			"nature": "Letter",
 			"input": "Buttons",
 			"answer": "∅",
+			"buttonTexts": ["∅", "Circle", "Line", "Curve line", "B"],
+			"deficiency": ["Line"],
 			"description": "Red-green deficiency: a line"
 		},
 		{
 			"platePath": "30.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "blue-green line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_30.svg",
+			"buttonTexts": ["∅", "draw_30.svg", "draw_26.svg", "draw_27.svg"],
+			"deficiency": ["∅"],
 			"description": "Red-green deficiency: ∅"
 		},
 		{
 			"platePath": "31.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "blue-green line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_31.svg",
+			"buttonTexts": ["∅", "draw_31.svg", "draw_26.svg", "draw_27.svg"],
+			"deficiency": ["∅"],
 			"description": "Red-green deficiency: ∅"
 		},
 		{
 			"platePath": "32.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Orange line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_32.svg",
+			"buttonTexts": ["∅", "draw_26.svg", "draw_27.svg", "draw_32.svg"],
+			"deficiency": ["∅"],
 			"description": "Red-green deficiency: ∅ or a false line"
 		},
 		{
 			"platePath": "33.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Orange line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_33.svg",
+			"buttonTexts": ["∅", "draw_26.svg", "draw_33.svg", "draw_27.svg"],
+			"deficiency": ["∅"],
 			"description": "Red-green deficiency: ∅ or a false line"
 		},
 		{
 			"platePath": "34.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Blue-green and yellow-green line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_34.svg",
+			"buttonTexts": ["∅", "draw_34_shape_red_violet.svg", "draw_34.svg", "draw_27.svg", "draw_35_bluegreen_violet.svg.svg"],
+			"deficiency": ["draw_34_shape_red_violet.svg"],
 			"description": "Red-green deficiency: only red-green and violet line"
 		},
 		{
 			"platePath": "35.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "blue-green and yellow-green line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_35.svg",
+			"buttonTexts": ["∅", "draw_35.svg", "draw_33.svg", "draw_35_bluegreen_violet.svg.svg"],
+			"deficiency": ["draw_35_bluegreen_violet.svg"],
 			"description": "Red-green deficiency: only blue-green and violet line"
 		},
 		{
 			"platePath": "36.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "violet and orange line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_36.svg",
+			"buttonTexts": ["∅", "draw_26.svg", "draw_36.svg", "draw_36_colorblind_spots.svg", "draw_34_shape_red_violet.svg"],
+			"deficiency": ["draw_36_colorblind_spots.svg"],
 			"description": "Red green deficiency: blue-green and violet line"
 		},
 		{
 			"platePath": "37.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "violet and orange line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_37.svg",
+			"buttonTexts": ["∅", "draw_27.svg", "draw_35.svg", "draw_37_colorblind.svg.svg", "draw_34_shape_red_violet.svg"],
+			"deficiency": ["draw_37_colorblind.svg"],
 			"description": "Red green deficiency: blue-green and violet line"
 		},
 		{
 			"platePath": "38.svg",
-			"nature": "Letter",
-			"input": "Buttons",
-			"answer": "Good line",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_38.svg",
+			"buttonTexts": ["∅", "draw_27.svg", "draw_38.svg", "draw_34", "draw_33.svg"],
 			"description": "Everyone should see the same line"
 		}
 	]
