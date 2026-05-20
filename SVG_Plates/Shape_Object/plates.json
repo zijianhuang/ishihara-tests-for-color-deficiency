@@ -1,0 +1,89 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "Object",
+	"plates": [
+		{
+			"platePath": "envelope.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_mail.svg",
+			"buttonTexts": [
+				"z_mail.svg",
+				"z_visibility.svg",
+				"z_check.svg"
+			]
+		},
+		{
+			"platePath": "brightness.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_brightness.svg"
+		},
+		{
+			"platePath": "octagon.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_octagon.svg"
+		},
+		{
+			"platePath": "octopus.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_octopus.svg"
+		},
+		{
+			"platePath": "circle_circle.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_circle_circle.svg"
+		},
+		{
+			"platePath": "crop_portrait.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_crop_portrait.svg"
+		},
+		{
+			"platePath": "home.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_home.svg"
+		},
+		{
+			"platePath": "euro.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_euro.svg"
+		},
+		{
+			"platePath": "eye.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_visibility.svg"
+		},
+		{
+			"platePath": "heart_border.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_favorite.svg"
+		},
+		{
+			"platePath": "heart_fill.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_heart_fill.svg"
+		},
+		{
+			"platePath": "smile_face.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_sentiment.svg"
+		},
+		{
+			"platePath": "tick.svg",
+			"nature": "Shape_Object",
+			"input": "ImageButtons",
+			"answer": "z_check.svg"
+		}
+	]
+}

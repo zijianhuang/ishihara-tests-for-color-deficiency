@@ -1,0 +1,90 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Letters",
+  "maxPlates": 10,
+  "plates": [
+    {
+      "platePath": "LTE.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["USB", "LTE", "HDMI", "VGA"],
+	  "answer": "LTE"
+    },
+    {
+      "platePath": "PIN.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["USB", "HDMI", "VGA", "PIN"],
+	  "answer": "PIN"
+    },
+    {
+      "platePath": "RAW.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["RAW", "USB", "HDMI", "VGA"],
+	  "answer": "RAW"
+    },
+    {
+      "platePath": "RSVP.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["USB", "HDMI", "RSVP", "VGA"],
+	  "answer": "RSVP"
+    },
+    {
+      "platePath": "ABC.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "ABC"
+    },
+    {
+      "platePath": "BL.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "BL"
+    },
+    {
+      "platePath": "cd.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "cd"
+    },
+    {
+      "platePath": "gh.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "gh"
+    },
+    {
+      "platePath": "WM.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "WM"
+    },
+    {
+      "platePath": "HK.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "HK"
+    },
+    {
+      "platePath": "XY.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "XY"
+    },
+    {
+      "platePath": "ZV.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "ZV"
+    },
+    {
+      "platePath": "SOS.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["USB", "SOS", "HDMI", "VGA"],
+	  "answer": "SOS"
+    }
+  ]
+}

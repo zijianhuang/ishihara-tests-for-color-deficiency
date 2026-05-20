@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "Title": {
+      "type": "string"
+    },
+    "Plates": {
+      "type": "array",
+      "description": "all plates in the test. The order of plates is important, as it will be used to determine the sequence of presentation to the user.",
+      "items": {
+        "$ref": "#/definitions/Plate"
+      }
+    }
+  },
+  "definitions": {
+    "Plate": {
+      "type": "object",
+      "description": "Describe how to present a plate to the user, and how the user can answer. The answer can be through clicking buttons, or key-in answer through virtual keyboard, or voice input, or drawing on the screen.",
+      "additionalProperties": false,
+      "required": [
+        "Nature",
+        "Input",
+        "Order"
+      ],
+      "properties": {
+        "PlatePath": {
+          "type": "string",
+          "description": "Relative file path to the plate. e.g. Letter_Single/ishihara_A.svg"
+        },
+        "Answer": {
+          "type": "string",
+          "description": "User input answer through selecting a button on the screen, or key-in the answer through a virtual keyboard. e.g. A, LTE\nIf InputMethod is ImageButtons, the answer could be General1/Letters/A.svg"
+        },
+        "Nature": {
+          "$ref": "#/definitions/PlateNature"
+        },
+        "Input": {
+          "$ref": "#/definitions/InputMethod"
+        },
+        "ButtonTexts": {
+          "type": "array",
+          "description": "If InputMethod is ImageButtons, each button text is a (relative) file path to the source image.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "Order": {
+          "type": "integer",
+          "description": "Optional. The the app may randomize the order of plates.",
+          "format": "int32"
+        }
+      }
+    },
+    "PlateNature": {
+      "type": "string",
+      "description": "This will determine how the UI present the way of answering",
+      "x-enumNames": [
+        "Letter",
+        "Letter_2",
+        "Letter_3",
+        "Digit",
+        "Digit_2",
+        "Digit_3",
+        "Shape_Simple",
+        "Shape_Object"
+      ],
+      "enum": [
+        "Letter",
+        "Letter_2",
+        "Letter_3",
+        "Digit",
+        "Digit_2",
+        "Digit_3",
+        "Shape_Simple",
+        "Shape_Object"
+      ]
+    },
+    "InputMethod": {
+      "type": "string",
+      "description": "",
+      "x-enumNames": [
+        "ImageButtons",
+        "Buttons",
+        "NumPad",
+        "Voice",
+        "Drawing"
+      ],
+      "enum": [
+        "ImageButtons",
+        "Buttons",
+        "NumPad",
+        "Voice",
+        "Drawing"
+      ]
+    }
+  }
+}

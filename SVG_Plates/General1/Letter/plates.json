@@ -1,0 +1,152 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Letter Around",
+  "description": "Letter around plate",
+  "plates": [
+    {
+      "platePath": "ishihara_B.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "B",
+	  "description": "Locate letter"
+    },
+    {
+      "platePath": "ishihara_C.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "C"
+    },
+    {
+      "platePath": "ishihara_D.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "D"
+    },
+    {
+      "platePath": "ishihara_E.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "E"
+    },
+    {
+      "platePath": "ishihara_F.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "F"
+    },
+    {
+      "platePath": "ishihara_G.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "G"
+    },
+    {
+      "platePath": "ishihara_H.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "H"
+    },
+    {
+      "platePath": "ishihara_J.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "J"
+    },
+    {
+      "platePath": "ishihara_K.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "K"
+    },
+    {
+      "platePath": "ishihara_L.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "L"
+    },
+    {
+      "platePath": "ishihara_M.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "M"
+    },
+    {
+      "platePath": "ishihara_N.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "N"
+    },
+    {
+      "platePath": "ishihara_O.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "O"
+    },
+    {
+      "platePath": "ishihara_P.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "P"
+    },
+    {
+      "platePath": "ishihara_Q.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "Q"
+    },
+    {
+      "platePath": "ishihara_S.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "S"
+    },
+    {
+      "platePath": "ishihara_T.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "T"
+    },
+    {
+      "platePath": "ishihara_U.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "U"
+    },
+    {
+      "platePath": "ishihara_V.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "V"
+    },
+    {
+      "platePath": "ishihara_W.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "W"
+    },
+    {
+      "platePath": "ishihara_X.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "X"
+    },
+    {
+      "platePath": "ishihara_Y.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "Y"
+    },
+    {
+      "platePath": "ishihara_Z.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "Z"
+    },
+    {
+      "platePath": "ishiharay_R.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "R"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Number ~ Cold Background",
+  "maxPlates": 5,
+  "plates": [
+    {
+      "platePath": "ishihara_0.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "0"
+    },
+    {
+      "platePath": "ishihara_1.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "1"
+    },
+    {
+      "platePath": "ishihara_3.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "3"
+    },
+    {
+      "platePath": "ishihara_4.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "4"
+    },
+    {
+      "platePath": "ishihara_5.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "5"
+    },
+    {
+      "platePath": "ishihara_6.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "6"
+    },
+    {
+      "platePath": "ishihara_7.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "7"
+    },
+    {
+      "platePath": "ishihara_8.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "8"
+    },
+    {
+      "platePath": "ishihara_9.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "9"
+    }
+  ]
+}

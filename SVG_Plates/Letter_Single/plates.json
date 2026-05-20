@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Letter ~ Large",
+  "plates": [
+    {
+      "platePath": "capital_B.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "buttonTexts": ["A", "B", "C", "D"],
+	  "answer": "B"
+    },
+    {
+      "platePath": "capital_G.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "G"
+    },
+    {
+      "platePath": "capital_H.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "H"
+    },
+    {
+      "platePath": "capital_italic_I.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "I"
+    },
+    {
+      "platePath": "capital_T.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "T"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "Numbers ~ Mixed Background",
+	"maxPlates": 10,
+	"plates": [
+		{
+			"platePath": "23.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "23"
+		},
+		{
+			"platePath": "31.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "31"
+		},
+		{
+			"platePath": "37.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "37"
+		},
+		{
+			"platePath": "56.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "56"
+		},
+		{
+			"platePath": "89.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "89"
+		},
+		{
+			"platePath": "17.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "17"
+		},
+		{
+			"platePath": "42.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "42"
+		},
+		{
+			"platePath": "53.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "53"
+		},
+		{
+			"platePath": "88.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "88"
+		},
+		{
+			"platePath": "99.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"buttonTexts": [
+				"88",
+				"22",
+				"99",
+				"123"
+			],
+			"answer": "99"
+		},
+		{
+			"platePath": "Number_123.svg",
+			"nature": "Digit_3",
+			"input": "Buttons",
+			"buttonTexts": [
+				"234",
+				"32",
+				"839",
+				"123"
+			],
+			"answer": "123"
+		}
+	]
+}

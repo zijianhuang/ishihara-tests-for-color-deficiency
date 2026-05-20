@@ -1,0 +1,73 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Simple Shape",
+  "maxPlates": 10,
+  "plates": [
+    {
+      "platePath": "cross.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_cross.svg"
+    },
+    {
+      "platePath": "rectangle.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_rectangle.svg"
+    },
+    {
+      "platePath": "Shape_Circle.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_circle.svg"
+    },
+    {
+      "platePath": "star.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_star.svg"
+    },
+    {
+      "platePath": "hexagon.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_hexagon.svg"
+    },
+    {
+      "platePath": "pentagon.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_pentagon.svg"
+    },
+    {
+      "platePath": "square.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_square.svg"
+    },
+    {
+      "platePath": "square-ring.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_square-ring.svg"
+    },
+    {
+      "platePath": "cloud.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_cloud.svg"
+    },
+    {
+      "platePath": "droplet.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_droplet.svg"
+    },
+    {
+      "platePath": "triangle.svg",
+      "nature": "Shape_Object",
+      "input": "ImageButtons",
+	  "answer": "z_triangle.svg"
+    }
+  ]
+}
