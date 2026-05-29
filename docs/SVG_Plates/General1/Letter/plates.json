@@ -1,0 +1,74 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+  "title": "Letters",
+  "description": "Letter around plate",
+  "plates": [
+    {
+      "platePath": "ishihara_B.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "B",
+	  "description": "Locate letter"
+    },
+    {
+      "platePath": "ishihara_C.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "C"
+    },
+    {
+      "platePath": "ishihara_H.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "H"
+    },
+    {
+      "platePath": "ishihara_T.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+      "answer": "T"
+    },
+    {
+      "platePath": "ishihara_3.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "3"
+    },
+    {
+      "platePath": "ishihara_5.svg",
+      "nature": "Digit",
+      "input": "Buttons",
+	  "answer": "5"
+    },
+   {
+      "platePath": "ABC.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "ABC"
+    },
+    {
+      "platePath": "BL.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "BL"
+    },
+    {
+      "platePath": "cd.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "cd"
+    },
+    {
+      "platePath": "gh.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "gh"
+    },
+    {
+      "platePath": "HK.svg",
+      "nature": "Letter",
+      "input": "Buttons",
+	  "answer": "HK"
+    }
+  ]
+}

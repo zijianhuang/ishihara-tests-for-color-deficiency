@@ -1,0 +1,12 @@
+tr.correct {
+	background-color: #1a3d2b;
+	color: #a3f0c0;
+}
+tr.wrong {
+	background-color: #3d1a1a;
+	color: #f0a3a3;
+}
+tr.deficiency {
+	background-color: #3d3400;
+	color: #f0e68c;
+}

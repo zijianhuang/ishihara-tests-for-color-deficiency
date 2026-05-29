@@ -1,0 +1,173 @@
+{
+  "configVersion": 1,
+  "timestamp": 1780050668458,
+  "appData": "Fonlow.ColorBlindTest.ServiceWorker",
+  "index": "/ishihara-tests-for-color-deficiency/index.html",
+  "assetGroups": [
+    {
+      "name": "appRoot",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ishihara-tests-for-color-deficiency/styles-PV5QXYNG.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "scripts",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ishihara-tests-for-color-deficiency/main-Q5OC36PR.js",
+        "/ishihara-tests-for-color-deficiency/polyfills-ZQORLDBA.js",
+        "/ishihara-tests-for-color-deficiency/scripts-H2PIPHWZ.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ishihara-tests-for-color-deficiency/assets/README.md",
+        "/ishihara-tests-for-color-deficiency/assets/docs/TestContent.md",
+        "/ishihara-tests-for-color-deficiency/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/12.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/38.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/button12.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/buttonLine.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/buttonNone.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/images/startTestButton.png",
+        "/ishihara-tests-for-color-deficiency/assets/help/startupHelp.html",
+        "/ishihara-tests-for-color-deficiency/assets/help/testHelp.html",
+        "/ishihara-tests-for-color-deficiency/assets/icons/clipboard-copy.svg",
+        "/ishihara-tests-for-color-deficiency/assets/icons/fan.svg",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-128x128.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-144x144.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-152x152.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-16x16.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-192x192.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-32x32.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-384x384.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-512x512.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-72x72.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/icon-96x96.png",
+        "/ishihara-tests-for-color-deficiency/assets/icons/jian.svg",
+        "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_ipad.png",
+        "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_result.png",
+        "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_standard.png",
+        "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_test.png",
+        "/ishihara-tests-for-color-deficiency/assets/themes/azure-blue.css",
+        "/ishihara-tests-for-color-deficiency/assets/themes/cyan-orange.css",
+        "/ishihara-tests-for-color-deficiency/assets/themes/magenta-violet.css",
+        "/ishihara-tests-for-color-deficiency/assets/themes/rose-red.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "Material Symbols",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff",
+        "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "svgPlates",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": [
+        "\\/svg_sources\\/.*",
+        "\\/SVG_Plates\\/.*"
+      ]
+    },
+    {
+      "name": "conf",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ishihara-tests-for-color-deficiency/assets/README.md": "71ab9949093530e4015f6f2af47bb7f614d66a18",
+    "/ishihara-tests-for-color-deficiency/assets/docs/TestContent.md": "e2efd64fa5a5a00c6efb201956964979624fee0a",
+    "/ishihara-tests-for-color-deficiency/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/12.png": "0d5f357209de45456b6c106465cf69dbd4cc9e84",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/38.png": "47ec789b911ae2fcd98b08de514937e075dd29dd",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/button12.png": "723a781b0512a10d39e45320602b1b2186470839",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/buttonLine.png": "5cd06379d9e09464fe172a935a03434a0fd498dd",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/buttonNone.png": "01104b43834ebbed1092f058ad830198183882f1",
+    "/ishihara-tests-for-color-deficiency/assets/help/images/startTestButton.png": "ffb9633d2a61505b5ff59523f6ccfbbb9c96d31a",
+    "/ishihara-tests-for-color-deficiency/assets/help/startupHelp.html": "3854fb808907390bdc42cc20881df642851531f9",
+    "/ishihara-tests-for-color-deficiency/assets/help/testHelp.html": "f9847a946beb424d267bdf0b6f1e1d925c8c86dc",
+    "/ishihara-tests-for-color-deficiency/assets/icons/clipboard-copy.svg": "f45b60a2faea6534b1f9a09a58c00b3821503474",
+    "/ishihara-tests-for-color-deficiency/assets/icons/fan.svg": "849ea3320cad4020280e47c9663da502b6971562",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-128x128.png": "9f68dc0af82be5f4c37d0de36392cfd70f6a9314",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-144x144.png": "38ecb500d5f7feac82f3b0fbcd5e3aff1db6843c",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-152x152.png": "6a20a7322433ee9b8ce8310199b11f3fc75b1881",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-16x16.png": "ba55f4afca0d898263164592627fa20f24dd226f",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-192x192.png": "baef5acbba0f99e9ddf3a11c7f355499a00ddcde",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-32x32.png": "f106b419c5ac30dbb2be0c7a05c7df02f6417c98",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-384x384.png": "edb69c0e8431b42436f5421c9ae6c9449600b589",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-512x512.png": "1d673b11cbe0ec6d57e16836df775eb573df7fad",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-72x72.png": "36f8576a1a9b85af68e8d1e5fc28f15291fbe868",
+    "/ishihara-tests-for-color-deficiency/assets/icons/icon-96x96.png": "37e874a5e4f87e02e5019ba2ad2d25c580a69495",
+    "/ishihara-tests-for-color-deficiency/assets/icons/jian.svg": "378f17ab888b4e6171404ecd7895bb2565744a8d",
+    "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_ipad.png": "edbce7d81d3572a4eb0b0f183247d06b050ec845",
+    "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_result.png": "7aa3c8274fe0c3e8b0c10eb19cf298f20a4b4e90",
+    "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_standard.png": "544b6a1c16768a78978424b647e6d187fc63935d",
+    "/ishihara-tests-for-color-deficiency/assets/screenshots/cb_test.png": "991344d49d80682c48ccd56a1ef949d6dd712e5a",
+    "/ishihara-tests-for-color-deficiency/assets/themes/azure-blue.css": "0e1e194e9448a11b80b3022a65a01cc21eae6b7c",
+    "/ishihara-tests-for-color-deficiency/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
+    "/ishihara-tests-for-color-deficiency/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
+    "/ishihara-tests-for-color-deficiency/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
+    "/ishihara-tests-for-color-deficiency/main-Q5OC36PR.js": "9ed0386cd1d7fbc21b9cd99f38e72f7129d698bf",
+    "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
+    "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
+    "/ishihara-tests-for-color-deficiency/polyfills-ZQORLDBA.js": "ef66496482d650b4e9f995a0575f8786653b8eef",
+    "/ishihara-tests-for-color-deficiency/scripts-H2PIPHWZ.js": "cdcbb46499a37114ec1de385d3e08131b9945738",
+    "/ishihara-tests-for-color-deficiency/styles-PV5QXYNG.css": "9e48b66d827eeb0c8408604c524835a29a45e6c1"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

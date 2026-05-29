@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="680"
+   height="680"
+   viewBox="0 0 680 680"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="draw_36_deficiency.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.7838235"
+     inkscape:cx="340"
+     inkscape:cy="340"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <title
+     id="title1">Ishihara plate 36 — line visible to red-green deficient viewers</title>
+  <desc
+     id="desc1">Two winding dot-segments forming the path seen by people with red-green colour deficiency on plate 36. The violet/purple segment runs from the top X down to the centre. The blue-green segment continues from the centre down to the bottom X.</desc>
+  <!-- Violet/purple segment: top X (~340, 95) winding down to centre (~340, 340) -->
+  <circle
+     cx="340"
+     cy="95"
+     r="15"
+     fill="black"
+     id="circle1" />
+  <circle
+     cx="322"
+     cy="118"
+     r="13"
+     fill="black"
+     id="circle2" />
+  <circle
+     cx="305"
+     cy="140"
+     r="15"
+     fill="black"
+     id="circle3" />
+  <circle
+     cx="292"
+     cy="163"
+     r="14"
+     fill="black"
+     id="circle4" />
+  <circle
+     cx="282"
+     cy="187"
+     r="13"
+     fill="black"
+     id="circle5" />
+  <circle
+     cx="276"
+     cy="211"
+     r="15"
+     fill="black"
+     id="circle6" />
+  <circle
+     cx="274"
+     cy="235"
+     r="14"
+     fill="black"
+     id="circle7" />
+  <circle
+     cx="278"
+     cy="258"
+     r="13"
+     fill="black"
+     id="circle8" />
+  <circle
+     cx="288"
+     cy="280"
+     r="15"
+     fill="black"
+     id="circle9" />
+  <circle
+     cx="303"
+     cy="299"
+     r="14"
+     fill="black"
+     id="circle10" />
+  <circle
+     cx="320"
+     cy="315"
+     r="13"
+     fill="black"
+     id="circle11" />
+  <circle
+     cx="335"
+     cy="330"
+     r="15"
+     fill="black"
+     id="circle12" />
+  <circle
+     cx="340"
+     cy="342"
+     r="14"
+     fill="black"
+     id="circle13" />
+  <!-- Blue-green segment: centre (~340, 342) winding down to bottom X (~340, 585) -->
+  <circle
+     cx="345"
+     cy="358"
+     r="14"
+     fill="black"
+     id="circle14" />
+  <circle
+     cx="355"
+     cy="375"
+     r="13"
+     fill="black"
+     id="circle15" />
+  <circle
+     cx="368"
+     cy="391"
+     r="15"
+     fill="black"
+     id="circle16" />
+  <circle
+     cx="381"
+     cy="408"
+     r="14"
+     fill="black"
+     id="circle17" />
+  <circle
+     cx="392"
+     cy="426"
+     r="13"
+     fill="black"
+     id="circle18" />
+  <circle
+     cx="399"
+     cy="446"
+     r="15"
+     fill="black"
+     id="circle19" />
+  <circle
+     cx="401"
+     cy="466"
+     r="14"
+     fill="black"
+     id="circle20" />
+  <circle
+     cx="398"
+     cy="486"
+     r="13"
+     fill="black"
+     id="circle21" />
+  <circle
+     cx="390"
+     cy="505"
+     r="15"
+     fill="black"
+     id="circle22" />
+  <circle
+     cx="378"
+     cy="522"
+     r="14"
+     fill="black"
+     id="circle23" />
+  <circle
+     cx="363"
+     cy="537"
+     r="13"
+     fill="black"
+     id="circle24" />
+  <circle
+     cx="350"
+     cy="554"
+     r="15"
+     fill="black"
+     id="circle25" />
+  <circle
+     cx="342"
+     cy="570"
+     r="14"
+     fill="black"
+     id="circle26" />
+  <circle
+     cx="340"
+     cy="585"
+     r="15"
+     fill="black"
+     id="circle27" />
+  <!-- X markers at top and bottom -->
+</svg>

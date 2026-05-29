@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="680"
+   height="680"
+   viewBox="0 0 680 680"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="draw_35_deficiency.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.7838235"
+     inkscape:cx="339.82039"
+     inkscape:cy="340"
+     inkscape:window-width="3840"
+     inkscape:window-height="2089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <title
+     id="title1">Ishihara plate 35 — line visible to red-green deficient viewers</title>
+  <desc
+     id="desc1">Two winding dot-segments forming the line seen by people with red-green colour deficiency on plate 35 (plate 34 rotated 180°). Blue-green segment runs from the right X to centre; violet segment runs from centre to the left X.</desc>
+  <!-- Plate 35 = plate 34 rotated 180° around (340, 340): new_x = 680 - old_x, new_y = 680 - old_y -->
+  <!-- Left segment of plate 34 becomes right segment here -->
+  <circle
+     cx="585"
+     cy="340"
+     r="15"
+     fill="black"
+     id="circle1" />
+  <circle
+     cx="562"
+     cy="358"
+     r="13"
+     fill="black"
+     id="circle2" />
+  <circle
+     cx="540"
+     cy="375"
+     r="15"
+     fill="black"
+     id="circle3" />
+  <circle
+     cx="518"
+     cy="388"
+     r="14"
+     fill="black"
+     id="circle4" />
+  <circle
+     cx="495"
+     cy="398"
+     r="13"
+     fill="black"
+     id="circle5" />
+  <circle
+     cx="472"
+     cy="405"
+     r="15"
+     fill="black"
+     id="circle6" />
+  <circle
+     cx="449"
+     cy="408"
+     r="14"
+     fill="black"
+     id="circle7" />
+  <circle
+     cx="426"
+     cy="407"
+     r="13"
+     fill="black"
+     id="circle8" />
+  <circle
+     cx="404"
+     cy="402"
+     r="15"
+     fill="black"
+     id="circle9" />
+  <circle
+     cx="383"
+     cy="392"
+     r="14"
+     fill="black"
+     id="circle10" />
+  <circle
+     cx="364"
+     cy="378"
+     r="13"
+     fill="black"
+     id="circle11" />
+  <circle
+     cx="350"
+     cy="361"
+     r="15"
+     fill="black"
+     id="circle12" />
+  <circle
+     cx="342"
+     cy="342"
+     r="14"
+     fill="black"
+     id="circle13" />
+  <!-- Right segment of plate 34 becomes left segment here -->
+  <circle
+     cx="328"
+     cy="322"
+     r="14"
+     fill="black"
+     id="circle14" />
+  <circle
+     cx="314"
+     cy="306"
+     r="13"
+     fill="black"
+     id="circle15" />
+  <circle
+     cx="298"
+     cy="293"
+     r="15"
+     fill="black"
+     id="circle16" />
+  <circle
+     cx="280"
+     cy="284"
+     r="14"
+     fill="black"
+     id="circle17" />
+  <circle
+     cx="261"
+     cy="280"
+     r="13"
+     fill="black"
+     id="circle18" />
+  <circle
+     cx="241"
+     cy="280"
+     r="15"
+     fill="black"
+     id="circle19" />
+  <circle
+     cx="222"
+     cy="284"
+     r="14"
+     fill="black"
+     id="circle20" />
+  <circle
+     cx="204"
+     cy="292"
+     r="13"
+     fill="black"
+     id="circle21" />
+  <circle
+     cx="187"
+     cy="303"
+     r="15"
+     fill="black"
+     id="circle22" />
+  <circle
+     cx="170"
+     cy="316"
+     r="14"
+     fill="black"
+     id="circle23" />
+  <circle
+     cx="154"
+     cy="328"
+     r="13"
+     fill="black"
+     id="circle24" />
+  <circle
+     cx="134"
+     cy="336"
+     r="15"
+     fill="black"
+     id="circle25" />
+  <circle
+     cx="114"
+     cy="340"
+     r="14"
+     fill="black"
+     id="circle26" />
+  <circle
+     cx="95"
+     cy="340"
+     r="15"
+     fill="black"
+     id="circle27" />
+</svg>
