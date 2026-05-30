@@ -15,4 +15,5 @@ Native mobile apps are available for the better User Experience when using the a
 <p> </p>
 
 Remarks:
-* "Ishihara Color Blind Test" is a static [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) based on Web app for pattern recognition questionnaire that Zijian has developed, with additional feature for checking color vision deficiency. The content of questionnaire may be created through a series free tools plus some PowerShell or Bash scripts.
+* "Ishihara Color Blind Test" is a static site [Progressive Web App](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) based on Web app for pattern recognition questionnaire that Zijian has developed, with additional feature for checking color vision deficiency. The content of questionnaire may be created through a series of free tools plus some PowerShell or Bash scripts.
+* And those in folder "SVG_Plates" may be used for trialing of new test contents. 

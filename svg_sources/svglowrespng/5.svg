@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <svg height="2419" width="2419" viewBox="200 200 2019 2019" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<clipPath id="circleClip">
+			<circle cx="1209.5" cy="1209.5" r="986"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#circleClip)">
 	<image height="2419" width="2419" viewBox="200 200 2019 2019" x="0" xlink:href="../lowres/ishihara-38-test-plates-5.png" y="0" />
 	<g id="circles">
 		<circle cx="921" cy="2030" r="57" style="fill: rgb(172,163,112); stroke: rgb(0,0,0); stroke-width: 1" />
@@ -1314,6 +1320,7 @@
 		<circle cx="1690" cy="1057" r="7" style="fill: white; stroke: white; stroke-width: 0" />
 		<circle cx="1021" cy="753" r="7" style="fill: white; stroke: white; stroke-width: 0" />
 	</g>
+	</g><!-- end circleClip group -->
 	<!--
 	Generated using the Perl SVG Module V2.84
 	by Ronan Oger

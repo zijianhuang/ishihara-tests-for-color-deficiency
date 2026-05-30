@@ -35,444 +35,444 @@
      cx="266.4"
      cy="307.6"
      r="11.1"
-     fill="black"
+     fill="currentColor"
      id="circle1" />
   <circle
      cx="96.7"
      cy="217.3"
      r="11.1"
-     fill="black"
+     fill="currentColor"
      id="circle2" />
   <circle
      cx="422.4"
      cy="228.1"
      r="10.8"
-     fill="black"
+     fill="currentColor"
      id="circle3" />
   <circle
      cx="197.9"
      cy="301.2"
      r="10.4"
-     fill="black"
+     fill="currentColor"
      id="circle4" />
   <circle
      cx="110.8"
      cy="247.7"
      r="10.4"
-     fill="black"
+     fill="currentColor"
      id="circle5" />
   <circle
      cx="368.5"
      cy="246.5"
      r="10.4"
-     fill="black"
+     fill="currentColor"
      id="circle6" />
   <circle
      cx="331.8"
      cy="224.9"
      r="10.4"
-     fill="black"
+     fill="currentColor"
      id="circle7" />
   <circle
      cx="267.7"
      cy="164.2"
      r="10.4"
-     fill="black"
+     fill="currentColor"
      id="circle8" />
   <circle
      cx="241.2"
      cy="238.2"
      r="10.1"
-     fill="black"
+     fill="currentColor"
      id="circle9" />
   <circle
      cx="321.5"
      cy="175.5"
      r="10.1"
-     fill="black"
+     fill="currentColor"
      id="circle10" />
   <circle
      cx="137.7"
      cy="279.0"
      r="9.9"
-     fill="black"
+     fill="currentColor"
      id="circle11" />
   <circle
      cx="244.5"
      cy="317.8"
      r="9.7"
-     fill="black"
+     fill="currentColor"
      id="circle12" />
   <circle
      cx="341.5"
      cy="246.3"
      r="9.7"
-     fill="black"
+     fill="currentColor"
      id="circle13" />
   <circle
      cx="159.6"
      cy="285.5"
      r="9.5"
-     fill="black"
+     fill="currentColor"
      id="circle14" />
   <circle
      cx="226.5"
      cy="221.0"
      r="9.5"
-     fill="black"
+     fill="currentColor"
      id="circle15" />
   <circle
      cx="265.7"
      cy="263.1"
      r="9.2"
-     fill="black"
+     fill="currentColor"
      id="circle16" />
   <circle
      cx="40.0"
      cy="192.6"
      r="9.2"
-     fill="black"
+     fill="currentColor"
      id="circle17" />
   <circle
      cx="337.8"
      cy="191.7"
      r="9.2"
-     fill="black"
+     fill="currentColor"
      id="circle18" />
   <circle
      cx="291.3"
      cy="166.1"
      r="9.2"
-     fill="black"
+     fill="currentColor"
      id="circle19" />
   <circle
      cx="223.7"
      cy="324.7"
      r="9.0"
-     fill="black"
+     fill="currentColor"
      id="circle20" />
   <circle
      cx="442.7"
      cy="198.8"
      r="9.0"
-     fill="black"
+     fill="currentColor"
      id="circle21" />
   <circle
      cx="234.1"
      cy="184.3"
      r="9.0"
-     fill="black"
+     fill="currentColor"
      id="circle22" />
   <circle
      cx="268.9"
      cy="281.6"
      r="8.8"
-     fill="black"
+     fill="currentColor"
      id="circle23" />
   <circle
      cx="400.8"
      cy="233.6"
      r="8.5"
-     fill="black"
+     fill="currentColor"
      id="circle24" />
   <circle
      cx="61.9"
      cy="195.4"
      r="8.5"
-     fill="black"
+     fill="currentColor"
      id="circle25" />
   <circle
      cx="114.7"
      cy="229.3"
      r="8.1"
-     fill="black"
+     fill="currentColor"
      id="circle26" />
   <circle
      cx="176.7"
      cy="295.0"
      r="7.8"
-     fill="black"
+     fill="currentColor"
      id="circle27" />
   <circle
      cx="76.4"
      cy="208.7"
      r="7.8"
-     fill="black"
+     fill="currentColor"
      id="circle28" />
   <circle
      cx="248.6"
      cy="258.5"
      r="7.6"
-     fill="black"
+     fill="currentColor"
      id="circle29" />
   <circle
      cx="226.7"
      cy="201.1"
      r="7.6"
-     fill="black"
+     fill="currentColor"
      id="circle30" />
   <circle
      cx="217.3"
      cy="306.9"
      r="7.4"
-     fill="black"
+     fill="currentColor"
      id="circle31" />
   <circle
      cx="249.1"
      cy="171.9"
      r="7.4"
-     fill="black"
+     fill="currentColor"
      id="circle32" />
   <circle
      cx="124.4"
      cy="264.1"
      r="6.7"
-     fill="black"
+     fill="currentColor"
      id="circle33" />
   <circle
      cx="443.2"
      cy="218.0"
      r="6.7"
-     fill="black"
+     fill="currentColor"
      id="circle34" />
   <circle
      cx="207.1"
      cy="317.8"
      r="6.2"
-     fill="black"
+     fill="currentColor"
      id="circle35" />
   <circle
      cx="281.4"
      cy="295.9"
      r="6.0"
-     fill="black"
+     fill="currentColor"
      id="circle36" />
   <circle
      cx="383.7"
      cy="236.2"
      r="6.0"
-     fill="black"
+     fill="currentColor"
      id="circle37" />
   <circle
      cx="326.8"
      cy="205.5"
      r="6.0"
-     fill="black"
+     fill="currentColor"
      id="circle38" />
   <circle
      cx="457.9"
      cy="190.3"
      r="6.0"
-     fill="black"
+     fill="currentColor"
      id="circle39" />
   <circle
      cx="234.8"
      cy="167.2"
      r="5.8"
-     fill="black"
+     fill="currentColor"
      id="circle40" />
   <circle
      cx="176.5"
      cy="278.8"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle41" />
   <circle
      cx="395.9"
      cy="250.0"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle42" />
   <circle
      cx="257.4"
      cy="247.5"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle43" />
   <circle
      cx="429.8"
      cy="210.6"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle44" />
   <circle
      cx="321.0"
      cy="192.4"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle45" />
   <circle
      cx="309.5"
      cy="161.9"
      r="5.5"
-     fill="black"
+     fill="currentColor"
      id="circle46" />
   <circle
      cx="339.9"
      cy="208.3"
      r="5.3"
-     fill="black"
+     fill="currentColor"
      id="circle47" />
   <circle
      cx="281.6"
      cy="276.0"
      r="5.1"
-     fill="black"
+     fill="currentColor"
      id="circle48" />
   <circle
      cx="77.3"
      cy="194.7"
      r="5.1"
-     fill="black"
+     fill="currentColor"
      id="circle49" />
   <circle
      cx="121.1"
      cy="277.4"
      r="4.8"
-     fill="black"
+     fill="currentColor"
      id="circle50" />
   <circle
      cx="353.5"
      cy="258.3"
      r="4.8"
-     fill="black"
+     fill="currentColor"
      id="circle51" />
   <circle
      cx="238.7"
      cy="209.2"
      r="4.8"
-     fill="black"
+     fill="currentColor"
      id="circle52" />
   <circle
      cx="457.9"
      cy="204.6"
      r="4.8"
-     fill="black"
+     fill="currentColor"
      id="circle53" />
   <circle
      cx="453.8"
      cy="166.6"
      r="4.8"
-     fill="black"
+     fill="currentColor"
      id="circle54" />
   <circle
      cx="384.6"
      cy="254.4"
      r="4.6"
-     fill="black"
+     fill="currentColor"
      id="circle55" />
   <circle
      cx="231.3"
      cy="309.7"
      r="4.4"
-     fill="black"
+     fill="currentColor"
      id="circle56" />
   <circle
      cx="101.3"
      cy="234.3"
      r="4.4"
-     fill="black"
+     fill="currentColor"
      id="circle57" />
   <circle
      cx="347.7"
      cy="230.4"
      r="4.4"
-     fill="black"
+     fill="currentColor"
      id="circle58" />
   <circle
      cx="240.5"
      cy="197.9"
      r="4.4"
-     fill="black"
+     fill="currentColor"
      id="circle59" />
   <circle
      cx="188.2"
      cy="287.1"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle60" />
   <circle
      cx="326.3"
      cy="242.6"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle61" />
   <circle
      cx="412.7"
      cy="242.2"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle62" />
   <circle
      cx="354.9"
      cy="238.5"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle63" />
   <circle
      cx="241.5"
      cy="221.9"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle64" />
   <circle
      cx="49.5"
      cy="203.7"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle65" />
   <circle
      cx="89.1"
      cy="201.8"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle66" />
   <circle
      cx="304.9"
      cy="173.9"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle67" />
   <circle
      cx="243.1"
      cy="160.1"
      r="4.1"
-     fill="black"
+     fill="currentColor"
      id="circle68" />
   <circle
      cx="252.8"
      cy="157.3"
      r="3.9"
-     fill="black"
+     fill="currentColor"
      id="circle69" />
   <circle
      cx="110.3"
      cy="263.8"
      r="3.7"
-     fill="black"
+     fill="currentColor"
      id="circle70" />
   <circle
      cx="225.3"
      cy="174.4"
      r="3.0"
-     fill="black"
+     fill="currentColor"
      id="circle72" />
   <circle
      cx="222.3"
      cy="189.8"
      r="2.8"
-     fill="black"
+     fill="currentColor"
      id="circle73" />
   <circle
      cx="127.6"
      cy="253.5"
      r="2.5"
-     fill="black"
+     fill="currentColor"
      id="circle75" />
   <circle
      cx="386.2"
      cy="244.5"
      r="2.5"
-     fill="black"
+     fill="currentColor"
      id="circle76" />
 </svg>

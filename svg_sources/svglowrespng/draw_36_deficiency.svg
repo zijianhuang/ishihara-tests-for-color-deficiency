@@ -40,164 +40,164 @@
      cx="340"
      cy="95"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle1" />
   <circle
      cx="322"
      cy="118"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle2" />
   <circle
      cx="305"
      cy="140"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle3" />
   <circle
      cx="292"
      cy="163"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle4" />
   <circle
      cx="282"
      cy="187"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle5" />
   <circle
      cx="276"
      cy="211"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle6" />
   <circle
      cx="274"
      cy="235"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle7" />
   <circle
      cx="278"
      cy="258"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle8" />
   <circle
      cx="288"
      cy="280"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle9" />
   <circle
      cx="303"
      cy="299"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle10" />
   <circle
      cx="320"
      cy="315"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle11" />
   <circle
      cx="335"
      cy="330"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle12" />
   <circle
      cx="340"
      cy="342"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle13" />
   <!-- Blue-green segment: centre (~340, 342) winding down to bottom X (~340, 585) -->
   <circle
      cx="345"
      cy="358"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle14" />
   <circle
      cx="355"
      cy="375"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle15" />
   <circle
      cx="368"
      cy="391"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle16" />
   <circle
      cx="381"
      cy="408"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle17" />
   <circle
      cx="392"
      cy="426"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle18" />
   <circle
      cx="399"
      cy="446"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle19" />
   <circle
      cx="401"
      cy="466"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle20" />
   <circle
      cx="398"
      cy="486"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle21" />
   <circle
      cx="390"
      cy="505"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle22" />
   <circle
      cx="378"
      cy="522"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle23" />
   <circle
      cx="363"
      cy="537"
      r="13"
-     fill="black"
+     fill="currentColor"
      id="circle24" />
   <circle
      cx="350"
      cy="554"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle25" />
   <circle
      cx="342"
      cy="570"
      r="14"
-     fill="black"
+     fill="currentColor"
      id="circle26" />
   <circle
      cx="340"
      cy="585"
      r="15"
-     fill="black"
+     fill="currentColor"
      id="circle27" />
   <!-- X markers at top and bottom -->
 </svg>

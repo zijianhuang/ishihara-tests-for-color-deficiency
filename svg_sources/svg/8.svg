@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg height="2419" width="2419" viewBox="200 200 2019 2019" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<image height="2419" width="2419" viewBox="200 200 2019 2019" x="0" xlink:href="../hires/ishihara-38-test-plates-8.png" y="0" />
+<svg height="2419" width="2419" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<image height="2419" width="2419" x="0" xlink:href="../hires/ishihara-38-test-plates-8.png" y="0" />
 	<g id="circles">
 		<circle cx="1127" cy="1033" r="50" style="fill: rgb(191,124,94); stroke: rgb(0,0,0); stroke-width: 1" />
 		<circle cx="883" cy="2044" r="49" style="fill: rgb(230,155,110); stroke: rgb(0,0,0); stroke-width: 1" />
