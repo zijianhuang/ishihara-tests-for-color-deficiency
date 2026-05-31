@@ -47,6 +47,7 @@ Rather than displaying the whole rectangle of the PNG, circle clipping is to foc
 **Remarks:**
 * It is possible to clip in the traditional Ishihara plate style.
 * And this could be done through modifying the file, or modifying the SVG content during runtime when the app may load the content asynchronously, so the users may choose 2 different styles of clipping.
+* Some of the printed Ishihara plates have 2 XX to indicate the start or the end of lines, so the practitioner may guide the test subject where to recognize the lines. In the app, the answer buttons have already displayed clearly the lines, thus such indicators may be redundant or giving too much hint. Therefore, clipping off the X indicators could be reasonable.
 
 ### Extension files to the plates
 
