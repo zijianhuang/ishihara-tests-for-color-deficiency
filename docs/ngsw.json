@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1780079985140,
+  "timestamp": 1780730799258,
   "appData": "Fonlow.ColorBlindTest.ServiceWorker",
   "index": "/ishihara-tests-for-color-deficiency/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ishihara-tests-for-color-deficiency/styles-PV5QXYNG.css"
+        "/ishihara-tests-for-color-deficiency/styles-KBL7H637.css"
       ],
       "patterns": []
     },
@@ -24,9 +24,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ishihara-tests-for-color-deficiency/main-HXDKIEH6.js",
-        "/ishihara-tests-for-color-deficiency/polyfills-ZQORLDBA.js",
-        "/ishihara-tests-for-color-deficiency/scripts-OY7HCLGX.js"
+        "/ishihara-tests-for-color-deficiency/main-ALNLN2VD.js",
+        "/ishihara-tests-for-color-deficiency/polyfills-PZSJNBYU.js",
+        "/ishihara-tests-for-color-deficiency/scripts-VFPD32Y7.js"
       ],
       "patterns": []
     },
@@ -121,7 +121,7 @@
     "/ishihara-tests-for-color-deficiency/assets/help/images/buttonLine.png": "5cd06379d9e09464fe172a935a03434a0fd498dd",
     "/ishihara-tests-for-color-deficiency/assets/help/images/buttonNone.png": "01104b43834ebbed1092f058ad830198183882f1",
     "/ishihara-tests-for-color-deficiency/assets/help/images/startTestButton.png": "ffb9633d2a61505b5ff59523f6ccfbbb9c96d31a",
-    "/ishihara-tests-for-color-deficiency/assets/help/startupHelp.html": "eedb19382f9507e519a668c23a2a39b4bf4b123a",
+    "/ishihara-tests-for-color-deficiency/assets/help/startupHelp.html": "c7acf9f152c452db0fdb0f0c7c62a0cd40f7cdcb",
     "/ishihara-tests-for-color-deficiency/assets/help/testHelp.html": "f9847a946beb424d267bdf0b6f1e1d925c8c86dc",
     "/ishihara-tests-for-color-deficiency/assets/icons/clipboard-copy.svg": "f45b60a2faea6534b1f9a09a58c00b3821503474",
     "/ishihara-tests-for-color-deficiency/assets/icons/fan.svg": "849ea3320cad4020280e47c9663da502b6971562",
@@ -144,12 +144,12 @@
     "/ishihara-tests-for-color-deficiency/assets/themes/cyan-orange.css": "db756b0d1f88bee9cbfc8c5417203f67eb690086",
     "/ishihara-tests-for-color-deficiency/assets/themes/magenta-violet.css": "7a58db77acee34a257c0c6c1dc360fa7f3142f6c",
     "/ishihara-tests-for-color-deficiency/assets/themes/rose-red.css": "b39d843369c203984c6a04c702b4cd30ac47a98a",
-    "/ishihara-tests-for-color-deficiency/main-HXDKIEH6.js": "c2e50788bb95ec15a6858fbfcf0b4a637450467e",
+    "/ishihara-tests-for-color-deficiency/main-ALNLN2VD.js": "5bdb960ff7ef7cd8c03dce81ed44bffd76c12101",
     "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-PA3AWAOZ.woff": "2f0218bac4101bd9ccc056188f1920ac33e2141c",
     "/ishihara-tests-for-color-deficiency/media/material-symbols-outlined-latin-400-normal-WKVH22ZP.woff2": "feab3398482749736126332d403b96462aa6dec1",
-    "/ishihara-tests-for-color-deficiency/polyfills-ZQORLDBA.js": "ef66496482d650b4e9f995a0575f8786653b8eef",
-    "/ishihara-tests-for-color-deficiency/scripts-OY7HCLGX.js": "db2bd8686b2ad771af7f4e31841a68f623b167c2",
-    "/ishihara-tests-for-color-deficiency/styles-PV5QXYNG.css": "9e48b66d827eeb0c8408604c524835a29a45e6c1"
+    "/ishihara-tests-for-color-deficiency/polyfills-PZSJNBYU.js": "38c9b370c0e9f9f932fe77ca39c98f09dc174b4d",
+    "/ishihara-tests-for-color-deficiency/scripts-VFPD32Y7.js": "2c729bf40ca14d794a4239d1ef6d87f9ba0c3258",
+    "/ishihara-tests-for-color-deficiency/styles-KBL7H637.css": "55d02b7a3c4dec7bf99dc83227deea0411e77018"
   },
   "navigationUrls": [
     {

@@ -9,3 +9,7 @@ tr.wrong {
 tr.deficiency {
 	background-color: yellow;
 }
+
+div.floating-bar-background {
+	background-color: lightyellow;
+}

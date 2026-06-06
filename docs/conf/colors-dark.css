@@ -10,3 +10,7 @@ tr.deficiency {
 	background-color: #3d3400;
 	color: #f0e68c;
 }
+
+div.floating-bar-background {
+	background-color: darkgreen;
+}
