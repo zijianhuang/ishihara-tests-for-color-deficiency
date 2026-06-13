@@ -1,0 +1,134 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "14 Plates",
+	"description": "14 Plates by Martin Krzywinski",
+	"dir": "../../svg_sources/svglowrespng",
+	"plates": [
+		{
+			"platePath": "1.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "12",
+			"description": "Everyone should see number 12.",
+			"buttonTexts": ["21", "17", "12", "72", "89"]
+		},
+		{
+			"platePath": "2.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "8",
+			"buttonTexts": ["9", "8", "6", "3", "4"],
+			"deficiency": ["3"],
+			"description": "Normal view: 8; Red-green deficiency: 3"
+		},
+
+				{
+			"platePath": "6.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "5",
+			"buttonTexts": ["6", "2", "5", "8", "9"],
+			"deficiency": ["2"],
+			"description": "Normal view: 5; Red-green deficiency: 2"
+		},
+		{
+			"platePath": "4.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "29",
+			"buttonTexts": ["19", "29", "28", "70", "78"],
+			"deficiency": ["70"],
+			"description": "Normal view: 29; Red-green deficiency: 70"
+		},
+		{
+			"platePath": "9.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "74",
+			"buttonTexts": ["23", "21", "78", "74", "14"],
+			"deficiency": ["21"],
+			"description": "Normal view: 74; Red-green deficiency: 21"
+		},
+		{
+			"platePath": "15.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "7",
+			"buttonTexts": ["7", "1", "∅", "9", "3"],
+			"deficiency": ["∅"],
+			"description": "Normal view: 7; Red-green deficiency: most people don't see anything or see something wrong.."
+		},
+		{
+			"platePath": "13.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "45",
+			"buttonTexts": ["∅", "75", "45", "65", "43"],
+			"deficiency": ["∅"],
+			"description": "Normal view: 45; Red-green deficiency: most people don't see anything or see something wrong."
+		},
+		{
+			"platePath": "10.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "2",
+			"buttonTexts": ["∅", "9", "2", "5", "8"],
+			"deficiency": ["∅"],
+			"description": "Normal view: 2; Red-green deficiency: most people don't see anything or see something wrong."
+		},
+		{
+			"platePath": "19.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "∅",
+			"buttonTexts": ["2", "3", "∅", "8", "3"],
+			"deficiency": ["2"],
+			"description": "Normal view: nothing; Red-green deficiency: 2"
+		},
+		{
+			"platePath": "16.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "16",
+			"buttonTexts": ["76", "∅", "16", "76", "78"],
+			"deficiency": ["∅"],
+			"description": "Normal view: 16; Red-green deficiency: most people don't see anything or see something wrong."
+		},
+		{
+			"platePath": "31.svg",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_31.svg",
+			"buttonTexts": ["empty-set.svg", "draw_31.svg", "draw_26.svg", "draw_35.svg"],
+			"deficiency": ["empty-set.svg"],
+			"description": "Normal view: blue-green line; Red-green deficiency: ∅"
+		},
+		{
+			"platePath": "24.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "35",
+			"buttonTexts": ["3", "53", "35", "5", "55"],
+			"deficiency": ["5", "3"],
+			"description": "Normal view: 35; Protanopia or protanomaly: 5; Deuteranopia or deuteranomaly: 3"
+		},
+		{
+			"platePath": "25.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "96",
+			"buttonTexts": ["96", "9", "6", "3", "63"],
+			"deficiency": ["6", "9"],
+			"description": "Normal view: 96; Protanopia or protanomaly: 6; Deuteranopia or deuteranomaly: 9"
+		},
+		{
+			"platePath": "27.svg",
+			"nature": "Shape_Simple",
+			"input": "ImageButtons",
+			"answer": "draw_27.svg",
+			"buttonTexts": ["empty-set.svg", "draw_27_purple.svg", "draw_27.svg", "draw_27_red.svg", "draw_35.svg"],
+			"deficiency": ["draw_27_purple.svg", "draw_27_red.svg"],
+			"description": "Normal view: purple and red spots; Protanopia or protanomaly: only the purple line; Deuteranopia or deuteranomaly: only the red line"
+		}
+	]
+}

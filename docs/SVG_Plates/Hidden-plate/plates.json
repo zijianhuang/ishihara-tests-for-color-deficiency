@@ -1,0 +1,56 @@
+{
+	"$schema": "https://raw.githubusercontent.com/zijianhuang/schemas/refs/heads/main/json/ColorBlindTestSchema.json",
+	"title": "Hidden Plates",
+	"description": "Only those with color-deficiency can readout",
+	"dir": "../../svg_sources/svglowrespng",
+	"plates": [
+		{
+			"platePath": "18.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "5",
+			"buttonTexts": ["∅", "9", "5", "6", "7"],
+			"description": "Normal view: nothing; Red-green deficiency: 5"
+		},
+		{
+			"platePath": "19.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "2",
+			"buttonTexts": ["2", "3", "∅", "8", "3"],
+			"description": "Normal view: nothing; Red-green deficiency: 2"
+		},
+		{
+			"platePath": "20.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "45",
+			"buttonTexts": ["43", "45", "78", "∅", "23"],
+			"description": "Normal view: nothing; Red-green deficiency: 45"
+		},
+		{
+			"platePath": "21.svg",
+			"nature": "Letter",
+			"input": "Buttons",
+			"answer": "73",
+			"buttonTexts": ["∅", "13", "73", "43", "22"],
+			"description": "Normal view: nothing; Red-green deficiency: 73"
+		},
+		{
+			"platePath": "28.svg",
+			"nature": "Letter",
+			"input": "ImageButtons",
+			"answer": "draw_28_deficiency_red_green.svg",
+			"buttonTexts": ["draw_33.svg", "draw_32.svg", "draw_28_deficiency_red_green.svg", "empty-set.svg"],
+			"description": "Normal view: nothing; Red-green deficiency: a line"
+		},
+		{
+			"platePath": "29.svg",
+			"nature": "Letter",
+			"input": "ImageButtons",
+			"answer": "draw_29_deficiency_red_green.svg",
+			"buttonTexts": ["empty-set.svg", "draw_33.svg", "draw_32.svg", "draw_29_deficiency_red_green.svg"],
+			"description": "Normal view: nothing; Red-green deficiency: a line"
+		}
+	]
+}

@@ -7,61 +7,61 @@
 		{
 			"platePath": "23.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "23"
 		},
 		{
 			"platePath": "31.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "31"
 		},
 		{
 			"platePath": "37.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "37"
 		},
 		{
 			"platePath": "56.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "56"
 		},
 		{
 			"platePath": "89.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "89"
 		},
 		{
 			"platePath": "17.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "17"
 		},
 		{
 			"platePath": "42.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "42"
 		},
 		{
 			"platePath": "53.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "53"
 		},
 		{
 			"platePath": "88.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"answer": "88"
 		},
 		{
 			"platePath": "99.svg",
 			"nature": "Letter",
-			"input": "Buttons",
+			"input": "NumPad",
 			"buttonTexts": [
 				"88",
 				"22",
@@ -73,7 +73,7 @@
 		{
 			"platePath": "Number_123.svg",
 			"nature": "Digit_3",
-			"input": "Buttons",
+			"input": "NumPad",
 			"buttonTexts": [
 				"234",
 				"32",

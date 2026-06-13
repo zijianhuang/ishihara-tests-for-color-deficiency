@@ -6,68 +6,68 @@
     {
       "platePath": "ishihara_B.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
       "answer": "B",
 	  "description": "Locate letter"
     },
     {
       "platePath": "ishihara_C.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "C"
     },
     {
       "platePath": "ishihara_H.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
       "answer": "H"
     },
     {
       "platePath": "ishihara_T.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
       "answer": "T"
     },
     {
       "platePath": "ishihara_3.svg",
       "nature": "Digit",
-      "input": "Buttons",
+      "input": "NumPad",
 	  "answer": "3"
     },
     {
       "platePath": "ishihara_5.svg",
       "nature": "Digit",
-      "input": "Buttons",
+      "input": "NumPad",
 	  "answer": "5"
     },
    {
       "platePath": "ABC.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "ABC"
     },
     {
       "platePath": "BL.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "BL"
     },
     {
       "platePath": "cd.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "cd"
     },
     {
       "platePath": "gh.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "gh"
     },
     {
       "platePath": "HK.svg",
       "nature": "Letter",
-      "input": "Buttons",
+      "input": "LetterPad",
 	  "answer": "HK"
     }
   ]
